@@ -1,5 +1,8 @@
 # docker
 
+[Dockerfile ref](https://docs.docker.com/engine/reference/builder/)
+[Nodejs app lab](https://github.com/docker/labs/tree/master/developer-tools/nodejs/porting/)
+
 ## Setup: [get started](https://docs.docker.com/get-started/)
 
 ```
